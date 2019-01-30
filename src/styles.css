@@ -1,0 +1,13 @@
+#lego__form {
+    width: 30%;
+    border: 1px solid green;
+    padding: 10px;
+}
+
+fieldset {
+    border: none;
+}
+
+button {
+    margin-left: 20px;
+}

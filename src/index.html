@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Legos</title>
+  <link rel="stylesheet" href="./styles.css">
+
+</head>
+
+<body>
+  <nav></nav>
+
+  <header>
+    <h1>Lego Creator</h1>
+  </header>
+
+  <div id="lego__form">
+
+    <fieldset>
+      <label for="lego__creator">Creator:</label>
+      <input id="lego__creator" name="lego__creator" type="text" placeholder="creator name" autofocus />
+    </fieldset>
+
+    <fieldset>
+      <label for="lego__color">Color:</label>
+      <select id="lego__color" name="colors" placeholder="color">
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <label for="lego__shape">Shape:</label>
+      <select id="lego__shape" name="shape">
+        <option value="animal">animal</option>
+        <option value="plant">plant</option>
+        <option value="vehicle">vehicle</option>
+        <option value="building">building</option>
+        <option value="other">other</option>
+      </select>
+    </fieldset>
+
+    <fieldset>
+      <label for="lego__creation">Creation:</label>
+      <input id="lego__creation" name="lego__creation" type="text" placeholder="creation name">
+    </fieldset>
+
+    <button id="lego__save" class="btn lego__save">Save Lego Creation</button>
+
+  </div>
+
+  <footer></footer>
+
+  <script src="scripts/main.js"></script>
+  <script src="scripts/colors.js"></script>
+  <script src="scripts/legos.js"></script>
+</body>
+
+</html>

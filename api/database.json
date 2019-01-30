@@ -1,0 +1,73 @@
+{
+  "legoCreations": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "id": 2,
+      "creator": "Kirren",
+      "color": "Blue",
+      "shape": "Animal",
+      "creation": "Blue Cat"
+    },
+    {
+      "creator": "some one",
+      "color": "yellow",
+      "shape": "vehicle",
+      "creation": "yellow racecar",
+      "id": 3
+    },
+    {
+      "creator": "Jane Doe",
+      "color": "6",
+      "shape": "building",
+      "creation": "white house",
+      "id": 4
+    },
+    {
+      "creator": "liz lemon",
+      "color": "7",
+      "shape": "other",
+      "creation": "purple mountain",
+      "id": 5
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "blue"
+    },
+    {
+      "id": 2,
+      "name": "red"
+    },
+    {
+      "id": 4,
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "name": "yellow"
+    },
+    {
+      "id": 5,
+      "name": "black"
+    },
+    {
+      "id": 6,
+      "name": "white"
+    },
+    {
+      "id": 7,
+      "name": "purple"
+    },
+    {
+      "id": 8,
+      "name": "orange"
+    }
+  ]
+}
