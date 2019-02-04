@@ -10,7 +10,7 @@ saveButton.addEventListener("click", (event) => {
     // Create new json object from user input
     const legoToSave = {
         creator: creator,
-        color: color,
+        color: parseInt(color),
         shape: shape,
         creation: creation
     }
